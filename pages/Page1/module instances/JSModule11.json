@@ -3,13 +3,13 @@
   "moduleUUID": "84d514cd-df75-4db0-98a4-e438bcb4785d",
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "name": "JSModule11",
     "contextType": "PAGE",
     "pageId": "Page1",
     "inputs": {},
     "jsonPathKeys": [],
-    "isValid": false,
+    "isValid": true,
     "invalids": [],
     "userPermissions": []
   },

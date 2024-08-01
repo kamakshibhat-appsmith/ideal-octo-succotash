@@ -3,14 +3,14 @@
   "moduleUUID": "0d02b603-3edb-4960-b35b-09809f516bb2",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "name": "QueryModule11",
     "contextType": "PAGE",
     "pageId": "Page1",
     "inputs": {},
     "moduleInputs": {},
     "jsonPathKeys": [],
-    "isValid": false,
+    "isValid": true,
     "invalids": [],
     "userPermissions": []
   },
